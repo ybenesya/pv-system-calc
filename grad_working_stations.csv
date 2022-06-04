@@ -1,0 +1,18 @@
+Temp_channel_id,Grad_cannel_id,Measurements,Y,X,Station number,Station Name
+7,11,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Grad', 'DiffR', 'WS1mm', 'Ws10mm', 'Time', 'NIP']",31.771,35.197,22,JEROSELEM GIVAT RAM
+6,17,"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Grad', 'DiffR', 'NIP', 'Ws10mm', 'Time', 'Rain']",29.886,35.078,36,YOVATA
+6,10,"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Grad', 'NIP', 'DiffR', 'WS1mm', 'Ws10mm', 'Time', 'Rain']",32.766,35.016,43,HAIFA TECHNION
+9,1,"['Grad', 'NIP', 'DiffR', 'TD']",31.26233,34.80151,60,BEER SHEVA UNI
+7,14,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'Grad', 'NIP', 'DiffR', 'WS1mm', 'Ws10mm', 'Time']",31.273,34.389,58,BESOR FARM
+7,-1,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time', 'RH', 'BP']",32.00138,34.83053,54,BET DAGAN
+-1,7,"['NIP', 'Grad', 'DiffR']",32.00138,34.83053,85,BET DAGAN RAD
+6,12,"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Grad', 'NIP', 'DiffR', 'Rain', 'Ws10mm', 'Time', 'BP']",29.553,34.954,64,ELAT
+17,5,"['WS', 'WD', 'STDwd', 'Grad', 'RH', 'Rain', 'WSmax', 'WDmax', 'WS1mm', 'Ws10mm', 'Time', 'TG', 'TD', 'TDmax', 'TDmin']",32.704,35.584,8,ZEMAH
+8,16,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'TG', 'Grad']",33.133,35.783,10,MEROM GOLAN PICMAN
+7,17,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",32.7,35.4,13,TAVOR KADOORIE
+7,17,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Grad', 'Ws10mm', 'Time']",31.983,35.45,30,GILGAL
+7,15,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad', 'RH', 'TG']",31.5,34.633,79,DOROT
+7,20,"['WS', 'WSV', 'WD', 'STDwd', 'WS3.5m', 'Licor', 'Grad', 'TD10m', 'TD', 'RH', 'T.5m', 'TG', 'T-.1m', 'T-.2m', 'T-.5m', 'Rain', 'Vbatt', 'TT', 'TW', 'EVAP', 'WSmax', 'WS3.5m', 'STAB']",32.47,35.489,206,EDEN FARM
+7,16,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",32.907,35.748,227,GAMLA
+7,14,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",31.47,35.07,188,ZOVA
+7,17,"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",32.633,35.099,67,EN HASHOFET

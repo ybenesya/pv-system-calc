@@ -1,0 +1,89 @@
+Measurements,Y,X,Station number,Station Name
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Grad', 'DiffR', 'WS1mm', 'Ws10mm', 'Time', 'NIP']",31.771,35.197,22,JEROSELEM GIVAT RAM
+"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Grad', 'DiffR', 'NIP', 'Ws10mm', 'Time', 'Rain']",29.886,35.078,36,YOVATA
+"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Grad', 'NIP', 'DiffR', 'WS1mm', 'Ws10mm', 'Time', 'Rain']",32.766,35.016,43,HAIFA TECHNION
+"['Grad', 'NIP', 'DiffR', 'TD']",null,null,60,BEER SHEVA UNI
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'Grad', 'NIP', 'DiffR', 'WS1mm', 'Ws10mm', 'Time']",31.273,34.389,58,BESOR FARM
+"['NIP', 'Grad', 'DiffR']",null,null,85,BET DAGAN RAD
+"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Grad', 'NIP', 'DiffR', 'Rain', 'Ws10mm', 'Time', 'BP']",29.553,34.954,64,ELAT
+"['WS', 'WD', 'STDwd', 'Grad', 'RH', 'Rain', 'WSmax', 'WDmax', 'WS1mm', 'Ws10mm', 'Time', 'TG', 'TD', 'TDmax', 'TDmin']",32.704,35.584,8,ZEMAH
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'TG', 'Grad']",33.133,35.783,10,MEROM GOLAN PICMAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'TG', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",32.683,35.516,11,YAVNEEL
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",32.7,35.4,13,TAVOR KADOORIE
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'TG', 'Grad']",null,null,17,TEL YOSEF 20060907
+"['WS', 'WSV', 'WD', 'STDwd', 'WS3.5m', 'Licor', 'Grad', 'TD10m', 'TD', 'RH', 'T.5m', 'TG', 'T-.1m', 'T-.2m', 'T-.5m', 'Rain', 'Vbatt', 'TT', 'TW', 'EVAP', 'WSmax', 'WS3.5m', 'STAB']",32.47,35.489,18,EDEN FARM 20080706
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",31.35,35.049,28,SHANI
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'Grad', 'DiffR', 'NIP', 'WS1mm', 'Ws10mm', 'Time']",31.251,35.186,29,ARAD
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Grad', 'Ws10mm', 'Time']",31.983,35.45,30,GILGAL
+"['TD', 'Grad', 'RH']",31.152,35.365,32,NEWE ZOHAR UNI
+"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'TG', 'Grad', 'NIP', 'DiffR', 'RH', 'Rain']",30.51,35.14,33,HAZEVA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",32.762,35.021,42,HAIFA UNIVERSITY
+"['Grad', 'DiffR', 'NIP', 'RH', 'TD', 'WS', 'WD', 'STDwd', 'Rain', 'TDmax', 'TDmin', 'WSmax', 'WDmax', 'WS1mm', 'Ws10mm', 'Time', 'BP']",31.032,35.391,65,SEDOM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'DiffR', 'NIP', 'Grad', 'WS1mm', 'Ws10mm', 'Time']",30.614,34.797,69,MIZPE RAMON 20080514
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad', 'RH', 'TG']",31.5,34.633,79,DOROT
+"['WS', 'WSV', 'WD', 'STDwd', 'WS3.5m', 'Licor', 'Grad', 'TD10m', 'TD', 'RH', 'T.5m', 'TG', 'T-.1m', 'T-.2m', 'T-.5m', 'Rain', 'Vbatt', 'TT', 'TW', 'EVAP', 'WSmax', 'WS3.5m', 'STAB']",32.47,35.489,206,EDEN FARM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",32.545,35.394,257,TEL YOSEF 20141223
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",32.907,35.748,227,GAMLA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",31.47,35.07,188,ZOVA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Grad']",32.633,35.099,67,EN HASHOFET
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time']",32.817,35.763,2,AVNE ETAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time']",32.881,35.653,6,BET ZAYDA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'TG']",32.597,35.278,16,AFULA NIR HAEMEQ
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.166,35.099,20,QARNE SHOMERON
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.106,35.212,21,ARIEL
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'BP', 'RH']",31.781,35.222,23,JERUSALEM CENTRE
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.933,35.15,24,HAR HARASHA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time']",31.683,34.983,25,NETIV HALAMED HE
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG']",30.3696,35.15,35,PARAN 20060124
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin']",32.799,35.049,41,HAIFA REFINERIES
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time']",32.682,34.96,44,EN KARMEL
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.566,34.95,45,ZIKHRON YAAQOV
+"['WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'Rain', 'WS1mm', 'Ws10mm', 'Time']",32.474,34.883,46,HADERA PORT
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time', 'RH', 'BP']",32.009,34.814,54,BET DAGAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'RH', 'TD', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time', 'BP']",31.333,34.783,59,BEER SHEVA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'RH', 'BP']",32.982,35.507,62,ZEFAT HAR KENAAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'TW', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'TG', 'RH']",33.066,35.217,73,ELON
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin', 'TG']",31.816,34.7,74,QEVUZAT YAVNE
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin']",31.716,34.966,75,BEIT JIMAL
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.665,35.124,77,ROSH ZURIM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'BP']",32.848,35.112,78,AFEQ
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.166,35.349,90,ITAMAR
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",30.871,34.796,98,SEDE BOQER
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.863,35.374,99,DEIR HANNA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",33.081,35.107,106,ROSH HANIQRA
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin', 'TG']",32.388,34.938,107,EN HAHORESH
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin', 'TG']",31.616,34.783,236,GAT
+"['1', '2', '3', '4', '5', '6']",null,null,263,GALED
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin']",null,null,264,MERHAVYA 20170702
+"['Rain', 'TD', 'RH']",null,null,275,HAKFAR HAYAROK
+"['Rain', 'TD', 'RH', 'TG', 'TDmax', 'TDmin']",31.3,34.87,350,LAHAV
+"['Rain', 'TD', 'RH', 'TG', 'TDmax', 'TDmin']",33.0244,35.5735,353,AYYELET HASHAHAR
+"['Rain', 'TD', 'RH', 'TG', 'TDmax', 'TDmin']",32.67,35.6,355,MASSADA
+"['Rain', 'TD', 'RH', 'TDmax', 'TDmin', 'TG']",32.44,35.51,366,SEDE ELIYYAHU
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.066,34.849,112,ZOMET HANEGEV
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.816,35.599,115,LEV KINERET
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'Vbatt', 'TG']",31.793,34.804,121,HAFEZ HAYYIM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.916,35.533,123,AMMIAD
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.835,34.638,124,ASHDOD PORT
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.059,34.759,178,TEL AVIV COAST
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'TG', 'WS1mm', 'Ws10mm', 'Time']",32.709,35.179,186,NEWE YAAR
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.883,35.299,205,ESHHAR
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'TG']",30.367,35.148,207,PARAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.633,34.516,208,ASHQELON PORT
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.583,35.383,210,METZOKE DRAGOT
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.419,35.386,211,EN GEDI
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.773,35.296,218,MAALE ADUMMIM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.481,35.415,224,MAALE GILBOA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.805,35.501,228,BET HAARAVA
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",30.048,35.023,232,NEOT SMADAR
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.883,35.579,233,KEFAR NAHUM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",33.241,35.57,241,KEFAR GILADI
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time', 'TG']",31.834,34.961,259,NAHSHON
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",30.614,34.797,265,MIZPE RAMON 20120927
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.956,35.328,269,HARASHIM
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.127,35.026,270,SHAARE TIQWA 20161205
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",30.8,34.77,271,AVDAT
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.733,34.635,274,NIZZAN
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",30.791,34.472,338,EZUZ
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",32.98,35.09,343,SHAVE ZIYYON
+"['Rain', 'WSmax', 'WDmax', 'WS', 'WD', 'STDwd', 'TD', 'RH', 'TDmax', 'TDmin', 'WS1mm', 'Ws10mm', 'Time']",31.205,34.922,349,NEVATIM
