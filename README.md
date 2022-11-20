@@ -2,10 +2,10 @@
 This PV Calculator gives estimations for the optimum size of a
 photovoltaic system for a given area in Israel, as well as the
 amount of power that can be obtained from this system.
-Also, This project was chosen as a one of the [excellent Electrical Engineering projects](https://www.tauengprojects.com/finalproj/EE/2022?lightbox=comp-k231dsy8__09d15bfa-8759-40a7-815e-711533209b88_runtime_dataItem-k231dsyc) at Tel Aviv University
+Also, this project was chosen as a one of the [excellent Electrical Engineering projects](https://www.tauengprojects.com/finalproj/EE/2022?lightbox=comp-k231dsy8__09d15bfa-8759-40a7-815e-711533209b88_runtime_dataItem-k231dsyc) at Tel Aviv University.
 
 ### Demo
-[Demo Video](https://drive.google.com/file/d/12LZANE-YR65iJgUIfTUv30547i_Nv32E/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/17TdKJGbghfoGQLbymEeTNQjeCVmjL8FH/view?usp=sharing)
 
 ### Poster
 [Poster](https://drive.google.com/file/d/1pPvkCa6kud8X0HJA_bad1XU32O9fwyao/view?usp=sharing)
