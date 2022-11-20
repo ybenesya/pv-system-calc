@@ -16,14 +16,11 @@ Recently I finished my B.Cs in Electrical and Computer Engineering from Tel Aviv
 
 ## Capabilities
 The PV Calculator includes:
-• Estimation of the optimal tilt setting for the photovoltaic
-system in order to give maximum power.
-• Calculations of system size and visual presentation of the
-system on a map.
-• Calculations of different types of irradiance, including GHI,
-DNI, DHI, and incident irradiance on the PV array.
-• Estimation of max cell temperature for a given date range.
-• Estimation of the system output power, for a given date range.
+  # Estimation of the optimal tilt setting for the photovoltaic system in order to give maximum power.
+  # Calculations of system size and visual presentation of the system on a map.
+  # Calculations of different types of irradiance, including GHI,DNI, DHI, and incident irradiance on the PV array.
+  # Estimation of max cell temperature for a given date range.
+  # Estimation of the system output power, for a given date range.
 
 This PV Calculator is designed as a user-friendly GUI.
 
